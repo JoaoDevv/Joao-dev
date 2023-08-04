@@ -1,6 +1,4 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Italo-Tech&repo=Italo-Tech&countColorcountColor)
-
- ## Seja bem vindo !! Eu me chamo Ítalo e sou desenvolvedor front-end com Vuejs na [BEELABS](https://appbee.com.br/)
+## Seja bem vindo !! Eu me chamo João e sou estudante de programação.
 <img align="right" src="https://github.com/Italo-tech/italo-tech/blob/master/.github/images/user.png?raw=true" width="300"/>
 
 <p align="left">
